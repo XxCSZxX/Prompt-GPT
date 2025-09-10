@@ -22,3 +22,19 @@
 * Segmento/nicho específico (#SneakerLovers, #StreetWearBrasil).
 * Hashtags virais/trend do momento (#Estilo2025, #LookDoDia).
 * Evite hashtags genéricas demais."
+
+# Prompt-Bio
+**Prompt:**
+Crie uma bio profissional e chamativa para Instagram.
+Informações:
+
+* Nome da empresa: {NOME}
+* Ramo de atuação: {RAMO}
+
+A bio deve ter:
+
+1. Uma frase curta com diferencial (usando emoji no início).
+2. Benefício ou promessa clara para o cliente.
+3. Prova de confiança (qualidade, experiência, entrega, etc).
+4. Chamada para ação (CTA) incentivando contato ou clique no link.
+5. No máximo 4 linhas, bem organizada e fácil de ler.
