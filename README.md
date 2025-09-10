@@ -38,3 +38,5 @@ A bio deve ter:
 3. Prova de confiança (qualidade, experiência, entrega, etc).
 4. Chamada para ação (CTA) incentivando contato ou clique no link.
 5. No máximo 4 linhas, bem organizada e fácil de ler.
+
+# Prompt — CEO local
