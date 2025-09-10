@@ -1,6 +1,6 @@
 ![ChatGPT Logo](https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/public/ChatGPT.png)
 # Prompt-gpt
-# **Prompt:**
+# **Prompt-Produto-instagram
 "Crie uma descrição poderosa para o produto \[NOME DO PRODUTO], da \[NOME DA LOJA/EMPRESA], seguindo as diretrizes abaixo:
 
 1. **Tom de voz adaptável:** permita escolher entre Luxo/Premium, Jovem/Descolado, Minimalista/Profissional ou Urgente/Oferta Relâmpago.
